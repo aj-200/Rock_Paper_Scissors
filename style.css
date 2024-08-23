@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#opponent-img{
+    position: absolute;
+    size:300, 400px;
+    left: 15%;
+    top: 25%;
+}
